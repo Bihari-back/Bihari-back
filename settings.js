@@ -35,15 +35,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['97696105222'] //ur owner number
-global.ownername = "BihariBoy" //ur owner name
-global.ytname = "YT: KingBihari" //ur yt chanel name
+global.ownername = "SenuBoy" //ur owner name
+global.ytname = "YT: SenuBoy" //ur yt chanel name
 global.socialm = "GitHub: SenuBoy" //ur github or insta name
-global.location = "India, Patna, Bihar" //ur location
+global.location = "SriLanka, Kaluthara, Panadura" //ur location
 
 //bot bomdy 
 global.owner = ['97696105222']
 global.ownertag = '97696105222' //ur tag number
-global.botname = 'Boy-Bihari' //ur bot name
+global.botname = 'Queen-Melissa-Beta' //ur bot name
 global.linkz = "https://github.com/SenuBoy/Queen-Melissa-Beta" //your theme url which will be displayed on whatsapp
 global.websitex = "https://github.com/SenuBoy/Queen-Melissa-Beta" //ur website to be displayed
 global.botscript = 'https://github.com/SenuBoy/Queen-Melissa-Beta' //script link
